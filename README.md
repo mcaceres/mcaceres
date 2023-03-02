@@ -1,7 +1,7 @@
 # Marcos David Cáceres
 ## 👨‍🎓 Estudios
 ### Analista de Sistemas de Computación
-- Estudios cursados en Instituto Argentino de Estudios Superiores
+- Estudios completos en Instituto Argentino de Estudios Superiores
 - Puerto Rico, Misiones, Argentina
 
 ### 👷 Experiencia Laboral
